@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="625c2b56-6eeb-4281-bbe1-82fe65cb77b5" name="Default Changelist" comment="" />
+    <list default="true" id="625c2b56-6eeb-4281-bbe1-82fe65cb77b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Kacper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/fun_test.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/pollution.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/q_sort.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/parcel_lockers.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ping_pong.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ErlangClass/lab1.beam" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ErlangClass/lab1.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ErlangClass/lab1.beam" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ErlangClass/lab1.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/lab1.erl" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +34,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YbyT6LViXi50PkmuhZgsh9N54V" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Erlang External Tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kacper\IdeaProjects\ErlangClass\src\lab2" />
+      <recent name="C:\Users\Kacper\IdeaProjects\ErlangClass\src\lab1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,27 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Erlang Console.Unnamed">
-    <configuration name="lab1.sumFloatsTail" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="ErlangClass" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="debugOptions">
-        <ErlangDebugOptions>
-          <option name="autoUpdateModulesNotToInterpret" value="true" />
-          <option name="modulesNotToInterpret">
-            <set />
-          </option>
-        </ErlangDebugOptions>
-      </option>
-      <option name="erlFlags" value="" />
-      <option name="moduleAndFunction" value="lab1 sumFloatsTail" />
-      <option name="params" value="" />
-      <option name="useTestCodePath" value="false" />
-      <option name="workDirectory" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Unnamed" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="ErlangClass" />
       <option name="allowRunningInParallel" value="false" />
@@ -74,11 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Erlang Application.lab1.sumFloatsTail" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,5 +101,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
