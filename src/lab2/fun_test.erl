@@ -8,7 +8,6 @@
 %%%-------------------------------------------------------------------
 -module(fun_test).
 -author("Kacper").
-
 %% API
 -export([my_map/2, my_filter/2, digits_sum/1, get_digits/1, filter_mil/3]).
 
@@ -34,3 +33,4 @@ digits_sum(X) ->
 filter_mil(List_len, Lower_b, Upper_b) ->
   Predicate = fun (X) -> digits_sum(X) rem 3 == 0 end,
   lists:filter(Predicate, q_sort:random_elements(List_len, Lower_b, Upper_b)).
+
