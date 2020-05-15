@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625c2b56-6eeb-4281-bbe1-82fe65cb77b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab2/pollution_server_unit_tests.erl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/pollution_unit_tests.erl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ErlangClass/lab1.beam" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ErlangClass/lab1.beam" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/ErlangClass/lab1.beam" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ErlangClass/lab1.beam" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/fun_test.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/fun_test.erl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab2/pollution.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/pollution.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/pollution_server.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/pollution_server.erl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

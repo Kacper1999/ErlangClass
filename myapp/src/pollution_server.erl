@@ -13,6 +13,7 @@
 -export([init/1, handle_call/3, handle_cast/2, start/0, stop/0, get_value/3, get_station_mean/2, get_daily_mean/2, get_hourly_mean/3, get_daily_max/2, add_station/2, add_value/4, remove_value/3, print_monitor/0, crash/0]).
 
 start() ->
+    io:format("pollution server start~n"),
     gen_server:start_link({local, pollution_server}, pollution_server, [], []).
 
 init(_Args) ->
@@ -75,7 +76,7 @@ print_monitor() ->
     gen_server:call(pollution_server, {print_monitor}).
 
 crash() ->
-    gen_server:call(ala, {hi}).
+    gen_server:call(alla, {hi}).
 
 stop() ->
     gen_server:cast(pollution_server, stop).
